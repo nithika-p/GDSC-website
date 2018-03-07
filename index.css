@@ -9,6 +9,11 @@ body{
 .nav-wrapper{
   background-color: #070707;
 }
+.content{
+  height:400px;
+  width:100%;
+  color:#ffffff;
+}
 .cb-slideshow,
 .cb-slideshow:after {
   margin-top:70px;
@@ -50,7 +55,7 @@ body{
 }
 .cb-slideshow li div h3 {
     font-family: 'BebasNeueRegular', 'Arial Narrow', Arial, sans-serif;
-    font-size: 200px;
+    font-size: 100px;
     padding: 0;
     line-height: 200px;
 }
