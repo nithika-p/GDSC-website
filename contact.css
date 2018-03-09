@@ -1,0 +1,56 @@
+body{
+  background-color: #202226;
+}
+.nav-container{
+  margin-left:40px;
+  margin-right:40px;
+}
+.nav-wrapper{
+  background-color: #070707;
+}
+.heading{
+  font-family:'Dancing Script', cursive;
+  color:	#C0C0C0;
+  text-align:center;
+}
+.nav-container ul li a:hover {
+    color: #26C6DA;
+}
+a {
+  cursor: pointer;
+}
+#map{
+  display:inline-flex;
+}
+.links{
+  display: inline-flex;
+}
+.icons{
+  pointer-events: none;
+  display: block;
+  margin-top: 10px;
+  text-align: center;
+  vertical-align: middle;
+}
+.fb{
+  color:#3b5998;
+}
+.fb:hover{
+  color:#C0C0C0;
+}
+.tw{
+  color:#0084b4;
+}
+.tw:hover{
+  color:#C0C0C0;
+}
+.ld{
+  color:#0077B5;
+}
+.ld:hover{
+  color:#C0C0C0;
+}
+.page-footer{
+  background: rgba(41, 214, 233, 0.7);
+  margin-top:40px;
+}
